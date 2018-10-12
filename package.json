@@ -1,0 +1,27 @@
+{
+	"name": "most-create",
+	"version": "1.0.0",
+	"description": "Most create imperative stream",
+	"repository": "git@github.com:singggum3b/most-create.git",
+	"typings": "./dist/index.d.ts",
+	"main": "./dist",
+	"scripts": {
+		"test": "exit 0",
+		"build": "tsc --outDir ./dist --declaration"
+	},
+	"keywords": [
+		"mostjs",
+		"create",
+		"imperative"
+	],
+	"peerDependencies": {
+		"most": "1.x",
+		"symbol-observable": "*",
+		"tslib": "*"
+	},
+	"devDependencies": {
+		"typescript": "^3.1.2"
+	},
+	"author": "singgum3b@gmail.com",
+	"license": "Apache 2.0"
+}
