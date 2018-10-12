@@ -1,6 +1,6 @@
 {
 	"name": "most-create",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Most create imperative stream",
 	"repository": "git@github.com:singggum3b/most-create.git",
 	"typings": "./dist/index.d.ts",
